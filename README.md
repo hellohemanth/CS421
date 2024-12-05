@@ -1,2 +1,4 @@
 # CS421
-Multi-Task Inference
+MTI Bench Reproducability Repo.
+
+Requires Open-Instruct repo to function properly as written by the original MTI-Bench: https://github.com/guijinSON/MTI-Bench
